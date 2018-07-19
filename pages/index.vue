@@ -28,13 +28,13 @@ export default {
     players: [
       {
         name: 'Jogador 1',
-        level: 7,
-        gear: 8
+        level: 1,
+        gear: 0
       },
       {
         name: 'Jogador 2',
-        level: 3,
-        gear: 10
+        level: 1,
+        gear: 0
       }
     ]
   }),
