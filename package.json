@@ -1,0 +1,31 @@
+{
+  "name": "munchkin",
+  "version": "1.0.0",
+  "description": "Contador pontos munchkin",
+  "author": "Alexandre Silva <contato@silvalexandre.com>",
+  "private": true,
+  "dependencies": {
+    "@nuxtjs/pwa": "latest",
+    "element-ui": "^2.4.4",
+    "nuxt": "latest",
+    "pug": "^2.0.3",
+    "pug-loader": "^2.4.0"
+  },
+  "scripts": {
+    "dev": "HOST=192.168.0.100 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.15.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-loader": "^1.6.1",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-promise": "^3.4.1",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
