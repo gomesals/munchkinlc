@@ -1,10 +1,10 @@
 # munchkin
 
-> Contador pontos munchkin
+> Contador de níveis do Munchkin
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install # Or yarn install
 
