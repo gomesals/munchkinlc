@@ -1,7 +1,7 @@
 {
   "name": "munchkin",
   "version": "1.0.0",
-  "description": "Contador pontos munchkin",
+  "description": "Contador de níveis do munchkin",
   "author": "Alexandre Silva <contato@silvalexandre.com>",
   "private": true,
   "dependencies": {
